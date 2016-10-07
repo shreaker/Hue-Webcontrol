@@ -2,6 +2,8 @@
 Control Phillips Hue lamps with a responsive webpage from any device in a simple way.
 More convienent usability for controlling Hue lamps compared to the original Philips Hue App.
 
+See: https://shreaker.github.io/Hue-Webcontrol/
+
 Quick access for:
 - Turn all lamps OFF
 - Turn on the color: RED, GREEN, BLUE, PINK, ORANGE, WHITE, NIGHT(special mode)
