@@ -6,6 +6,12 @@ Quick access for:
 - Turn all lamps OFF
 - Turn on the color: RED, GREEN, BLUE, PINK, ORANGE, WHITE, NIGHT(special mode)
 
+Tested the responsive design of the webpage with following devices:
+- RaspberryPi official display: 800x480
+- Android smartphone: 480×800
+- Win10 smartphone: 1280x720
+- Desktop: 1920x1080
+
 # Dependency
 Software:
 - Deploy Hue-Webcontrol on a webserver: NGINX | Apache with PHP5 or later
