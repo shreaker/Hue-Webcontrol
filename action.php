@@ -5,7 +5,7 @@
 /// License: GPL3
 /// Project: Hue Webcontrol
 /// Desc.  : Control Phillips Hue lamps with a responsive webpage from any device in a simple way.
-/// Info   : More info at https://github.com/shreaker
+/// Info   : More info at https://github.com/shreaker/Hue-Webcontrol
 //////////////////////////////////////////////////////////////////////////////////////////////////
 /*
 //Uncomment for debugging only!
