@@ -12,6 +12,10 @@ Tested the responsive design of the webpage with following devices:
 - Win10 smartphone: 1280x720
 - Desktop: 1920x1080
 
+Web App:
+- Use your favourite browser and create a link to the Hue-Webcontrol webpage. Add the link to your home-screen.
+- The icon of the Web App is a light bulb (see favicon).
+
 # Dependency
 Software:
 - Deploy Hue-Webcontrol on a webserver: NGINX | Apache with PHP5 or later
