@@ -1,4 +1,6 @@
 # Hue-Webcontrol
+<img src="./readme_screenshot.png" alt="Hue-Webcontrol screenshot"/>
+
 Control Phillips Hue lamps with a responsive webpage from any device in a simple way.
 More convienent usability for controlling Hue lamps compared to the original Philips Hue App.
 
